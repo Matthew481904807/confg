@@ -361,9 +361,9 @@
       {
         "tag": "SV2_vless",
         "type": "vless",
-        "server": "104.18.29.94", //修改优选ip或域名
+        "server": "cdn.xn--b6gac.eu.org", //修改优选ip或域名
         "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
-        "uuid": "d342d11e-d424-4283-b33e-524ab1f0ada4", //修改你的uuid
+        "uuid": "59c3c102-1d07-45a2-ac99-cd577f2194df", //修改你的uuid
         "packet_encoding": "xudp",
         "transport": {
           "type": "ws",
@@ -378,18 +378,18 @@
       {
         "tag": "SV3_vmess",
         "type": "vmess",
-        "server": "www.crispyrainbow.online", //修改对应地址
-        "server_port": 8080,  //修改对应端口
-        "uuid": "22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0", //修改对应uuid
+        "server": "104.21.225.66", //修改对应地址
+        "server_port": 80,  //修改对应端口
+        "uuid": "7022982f-da4c-48c9-c660-b2315abdcf7e", //修改对应uuid
         "security": null,
         "alter_id": 0,
         "packet_encoding": "xudp",
         "transport": {
           "type": "ws",
           "headers": {
-            "Host": "www.crispyrainbow.online"  //修改对应host
+            "Host": "a.prapt5.ir"  //修改对应host
           },
-          "path": "/"  //修改对应path，没有不填
+          "path": "/?ed=2048&Telegram🇨🇳@WangCai_8"  //修改对应path，没有不填
         }
       },
       {
